@@ -36,3 +36,5 @@ db.sqlite3
 DATA/
 sample_submission.xlsx
 test.xlsx
+
+submission*
