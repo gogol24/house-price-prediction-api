@@ -23,7 +23,7 @@ htmlcov/
 *.log
 db.sqlite3
 
-# Editors
+# Editorsgit 
 .vscode/
 .idea/
 
@@ -38,3 +38,6 @@ sample_submission.xlsx
 test.xlsx
 
 submission*
+
+*.csv
+*.joblib
